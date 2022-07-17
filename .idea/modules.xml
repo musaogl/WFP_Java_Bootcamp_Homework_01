@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WFP_Java_Bootcamp_Homework_01.iml" filepath="$PROJECT_DIR$/WFP_Java_Bootcamp_Homework_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekOne/weekOne.iml" filepath="$PROJECT_DIR$/weekOne/weekOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekThree/weekThree.iml" filepath="$PROJECT_DIR$/weekThree/weekThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekTwo/weekTwo.iml" filepath="$PROJECT_DIR$/weekTwo/weekTwo.iml" />
+    </modules>
+  </component>
+</project>
